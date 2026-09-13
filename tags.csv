@@ -1,0 +1,1000 @@
+﻿Tag,English Description,বাংলা বিবরণ (Bangla Description)
+Complain About Cancellation fee,Customer complains about being charged a trip/order cancellation fee.,গ্রাহক ট্রিপ/অর্ডার ক্যান্সেলেশন ফি চার্জ করা নিয়ে অভিযোগ করছেন।
+Complain About Cancelled Order / Trip,Customer complains that their order or trip was cancelled without a proper reason or without consent.,গ্রাহকের অর্ডার বা ট্রিপ যথাযথ কারণ ছাড়া অথবা সম্মতি ছাড়াই বাতিল হয়েছে বলে অভিযোগ।
+Complain about Car AC,Customer complains that the car's AC was not working or was uncomfortable during the ride.,রাইডের সময় গাড়ির এসি কাজ না করা বা অস্বস্তিকর হওয়া নিয়ে অভিযোগ।
+Complain about DP Balance / Digital Credit,Complaint about an issue with the DP (Digital Credit) balance.,DP (ডিজিটাল ক্রেডিট) ব্যালেন্স সংক্রান্ত সমস্যা নিয়ে অভিযোগ।
+Complain about Drive App,Rider/Captain complains about an issue with the Drive App (Pathao's driver-side app).,ড্রাইভ অ্যাপ (পাঠাও-এর রাইডার/ক্যাপ্টেন অ্যাপ) সংক্রান্ত সমস্যা নিয়ে অভিযোগ।
+Complain about Harassment Issue,Complaint regarding harassment faced by the customer or rider from the other party.,গ্রাহক বা রাইডারের হয়রানির শিকার হওয়ার অভিযোগ।
+Complain about Long Distance Pickup Fee,Customer complains about an extra fee charged for a long-distance pickup.,দীর্ঘ দূরত্বের পিকআপের জন্য অতিরিক্ত ফি নেওয়া নিয়ে অভিযোগ।
+Complain About Lost Item,Customer complains about an item lost or left behind during the trip.,ট্রিপের সময় কোনো জিনিস হারিয়ে যাওয়া বা ফেলে যাওয়া নিয়ে অভিযোগ।
+Complain about Misbehave Issue,"Complaint about misbehaviour from the rider, captain, foodman, or user.","রাইডার, ক্যাপ্টেন, ফুডম্যান বা ইউজারের দুর্ব্যবহার নিয়ে অভিযোগ।"
+Complain about Package Damage,Customer complains that the parcel/package was damaged during delivery.,ডেলিভারির সময় প্যাকেজ/পার্সেল নষ্ট হয়ে যাওয়া নিয়ে অভিযোগ।
+Complain about Promo or Voucher Issue,Complaint about a promo code or voucher not working as expected.,প্রোমো কোড বা ভাউচার প্রত্যাশামতো কাজ না করা নিয়ে অভিযোগ।
+Complain about Unprofessionalism,"Complaint about unprofessional conduct by the rider, captain, foodman, or CX staff.",রাইডার/ক্যাপ্টেন/ফুডম্যান/সিএক্স স্টাফের অপেশাদার আচরণ নিয়ে অভিযোগ।
+Complain about User App,User complains about an issue in the Pathao User App.,পাঠাও ইউজার অ্যাপে থাকা কোনো সমস্যা নিয়ে অভিযোগ।
+Complain About Waiting Charge,Complaint about being charged a waiting fee.,ওয়েটিং চার্জ ধার্য হওয়া নিয়ে অভিযোগ।
+Complain about WIC / Hub / Pathao Employee / CX,"Complaint against a Pathao employee, Hub staff, WIC (Walk-In Centre) staff, or CX agent.","পাঠাও কর্মী, হাব স্টাফ, WIC (ওয়াক-ইন সেন্টার) বা সিএক্স এজেন্টের বিরুদ্ধে অভিযোগ।"
+Complain App Rating,"Complaint related to an app rating given or received, such as an unfair rating.",অ্যাপ রেটিং (যেমন অন্যায্য রেটিং পাওয়া) সংক্রান্ত অভিযোগ।
+Complain App Wrong GPS Location,Complaint that the app showed a wrong GPS/location.,অ্যাপে ভুল জিপিএস/লোকেশন দেখানো নিয়ে অভিযোগ।
+Complain BNPL Double Payment Issue,Complaint about being charged twice under BNPL (Buy Now Pay Later).,BNPL (বাই নাউ পে লেটার)-এ দুইবার পেমেন্ট কাটা হয়েছে বলে অভিযোগ।
+Complain BNPL Not Getting Payment Option,Complaint that the BNPL payment option is not showing or available.,BNPL পেমেন্ট অপশন না পাওয়ার অভিযোগ।
+Complain BNPL Subscription Fee Issue,Complaint about an issue with the BNPL subscription fee.,BNPL সাবস্ক্রিপশন ফি সংক্রান্ত সমস্যা নিয়ে অভিযোগ।
+Complain BNPL User Due Adjustment Issue,Complaint about an incorrect BNPL due adjustment for the user.,ইউজারের BNPL ডিউ অ্যাডজাস্টমেন্ট ভুলভাবে হওয়ার অভিযোগ।
+Complain Claimed Extra Money Customer Didn't Pay,Rider/Captain complains that extra money was claimed against them even though the customer never paid it.,গ্রাহক টাকা পরিশোধ না করা সত্ত্বেও অতিরিক্ত টাকা দাবি করা হয়েছে বলে অভিযোগ।
+Complain Claimed Extra Money Customer Paid,Complaint that extra money was claimed even though the customer had already paid it.,গ্রাহক টাকা পরিশোধ করার পরও অতিরিক্ত টাকা দাবি করা হয়েছে বলে অভিযোগ।
+Complain Commission Mismatch,Rider/Captain complains that the commission deducted does not match the expected amount.,কমিশন কর্তনের পরিমাণ প্রত্যাশিত পরিমাণের সাথে না মেলার অভিযোগ।
+Complain Delivery Delay,Complaint about a delayed delivery.,ডেলিভারিতে দেরি হওয়া নিয়ে অভিযোগ।
+Complain Different Rider / Captain / Foodman / User,"Complaint that a different person than expected showed up for the trip/order (rider, captain, foodman, or user).",প্রত্যাশিত ব্যক্তির পরিবর্তে অন্য কেউ (রাইডার/ক্যাপ্টেন/ফুডম্যান/ইউজার) ট্রিপ/অর্ডারে উপস্থিত হওয়ার অভিযোগ।
+Complain Different Vehicle,Complaint that a different vehicle than the one assigned/expected showed up.,নির্ধারিত/প্রত্যাশিত গাড়ির পরিবর্তে অন্য গাড়ি আসার অভিযোগ।
+Complain DP Double Payment Issue,Complaint about DP being charged or deducted twice.,DP থেকে দুইবার টাকা কাটা হয়েছে বলে অভিযোগ।
+Complain DP Due Adjustment Bkash,Complaint about a DP due adjustment made via bKash going wrong.,bKash-এর মাধ্যমে DP ডিউ অ্যাডজাস্টমেন্টে সমস্যা হওয়ার অভিযোগ।
+Complain DP Due Adjustment Card,Complaint about a DP due adjustment made via card going wrong.,কার্ডের মাধ্যমে DP ডিউ অ্যাডজাস্টমেন্টে সমস্যা হওয়ার অভিযোগ।
+Complain DP Due Adjustment DP Wallet Balance,Complaint about a DP due adjustment made from the DP wallet balance going wrong.,DP ওয়ালেট ব্যালেন্স থেকে ডিউ অ্যাডজাস্টমেন্টে সমস্যা হওয়ার অভিযোগ।
+Complain DP Due Adjustment Nagad,Complaint about a DP due adjustment made via Nagad going wrong.,Nagad-এর মাধ্যমে DP ডিউ অ্যাডজাস্টমেন্টে সমস্যা হওয়ার অভিযোগ।
+Complain DP Due Adjustment Others,Complaint about a DP due adjustment made via another/unspecified method going wrong.,অন্যান্য মাধ্যমে DP ডিউ অ্যাডজাস্টমেন্টে সমস্যা হওয়ার অভিযোগ।
+Complain DP Due Adjustment Pathao Pay,Complaint about a DP due adjustment made via Pathao Pay going wrong.,পাঠাও পে-এর মাধ্যমে DP ডিউ অ্যাডজাস্টমেন্টে সমস্যা হওয়ার অভিযোগ।
+Complain DP Not Getting OTP,Complaint about not receiving the OTP needed for a DP transaction.,DP লেনদেনের জন্য প্রয়োজনীয় OTP না পাওয়ার অভিযোগ।
+Complain DP Not Getting Payment Option,Complaint that the DP payment option is not showing or available.,DP পেমেন্ট অপশন না পাওয়ার অভিযোগ।
+Complain DP Topup Unsuccessful,Complaint that a DP top-up attempt failed.,DP টপ-আপ ব্যর্থ হওয়ার অভিযোগ।
+Complain DP Withdraw Bkash Issue,Complaint about an issue withdrawing DP balance to bKash.,bKash-এ DP ব্যালেন্স উত্তোলনে সমস্যা হওয়ার অভিযোগ।
+Complain DP Withdraw One Bank ATM Issue,Complaint about an issue withdrawing DP balance via One Bank ATM.,ওয়ান ব্যাংক এটিএম-এর মাধ্যমে DP ব্যালেন্স উত্তোলনে সমস্যা হওয়ার অভিযোগ।
+Complain DP Withdraw Pathao Pay Issue,Complaint about an issue withdrawing DP balance to Pathao Pay.,পাঠাও পে-তে DP ব্যালেন্স উত্তোলনে সমস্যা হওয়ার অভিযোগ।
+Complain DP Withdraw Rocket Issue,Complaint about an issue withdrawing DP balance to Rocket.,Rocket-এ DP ব্যালেন্স উত্তোলনে সমস্যা হওয়ার অভিযোগ।
+Complain Due Adjustment,General complaint that a due adjustment was made incorrectly.,ডিউ অ্যাডজাস্টমেন্ট ভুলভাবে হওয়ার সাধারণ অভিযোগ।
+Complain Due Mismatch,Complaint that the due amount shown does not match the expected amount.,প্রদর্শিত বকেয়া (ডিউ) পরিমাণ প্রত্যাশিত পরিমাণের সাথে না মেলার অভিযোগ।
+Complain Fare Bidding,Complaint about the fare bidding process or its outcome.,ফেয়ার বিডিং প্রক্রিয়া বা ফলাফল নিয়ে অভিযোগ।
+Complain Fare Breakdown,Complaint about the breakdown of how the total fare was calculated.,ভাড়ার বিস্তারিত হিসাব (ফেয়ার ব্রেকডাউন) নিয়ে অভিযোগ।
+Complain Foodman / Rider / Captain / User Unreachable,"Complaint that the foodman, rider, captain, or user could not be reached.",ফুডম্যান/রাইডার/ক্যাপ্টেন/ইউজারকে যোগাযোগ করা যায়নি বলে অভিযোগ।
+Complain Joining Bonus,Complaint that a joining bonus was not received or was incorrect.,জয়নিং বোনাস না পাওয়া বা ভুল হওয়ার অভিযোগ।
+Complain Legal And Law Enforcement Issue,Complaint involving a legal matter or a law enforcement (police) issue.,আইনি বিষয় বা আইনশৃঙ্খলা বাহিনী (পুলিশ) সংশ্লিষ্ট সমস্যা নিয়ে অভিযোগ।
+Complain Loading / Hang,Complaint that the app keeps loading or hangs/freezes.,অ্যাপ লোডিং-এ আটকে থাকা বা হ্যাং হওয়ার অভিযোগ।
+Complain Login Error,Complaint about an error while logging in to the app.,অ্যাপে লগইন করতে গিয়ে এরর হওয়ার অভিযোগ।
+Complain Marked Completed Before Delivery,Complaint that the order was marked complete before it was actually delivered.,প্রকৃতপক্ষে ডেলিভারি হওয়ার আগেই অর্ডার সম্পন্ন দেখানো নিয়ে অভিযোগ।
+Complain Mass Technical,Complaint related to a widespread/mass technical issue affecting many users.,বহু ব্যবহারকারীকে প্রভাবিত করা ব্যাপক প্রযুক্তিগত সমস্যা নিয়ে অভিযোগ।
+Complain Mass Technical Problem,Complaint related to a mass/widespread technical problem affecting many users.,"ব্যাপক প্রযুক্তিগত সমস্যা নিয়ে অভিযোগ, যা অনেক ব্যবহারকারীকে প্রভাবিত করছে।"
+Complain Not Delivered to Selected Location,Complaint that the order was not delivered to the location the customer selected.,গ্রাহকের নির্বাচিত ঠিকানায় অর্ডার ডেলিভারি না হওয়ার অভিযোগ।
+Complain Not Getting Request,Rider/Captain complains about not receiving ride/order requests.,রাইডার/ক্যাপ্টেন রাইড/অর্ডার রিকোয়েস্ট না পাওয়ার অভিযোগ করছেন।
+Complain Not Playing Ringtone,Complaint that the app's ringtone/notification sound does not play for incoming requests.,নতুন রিকোয়েস্ট আসার সময় অ্যাপের রিংটোন/নোটিফিকেশন সাউন্ড না বাজার অভিযোগ।
+Complain Offered Offline Ride/Order,Complaint that a rider/captain offered to take the ride/order outside the app (offline).,রাইডার/ক্যাপ্টেন অ্যাপের বাইরে (অফলাইনে) রাইড/অর্ডার নেওয়ার প্রস্তাব দেওয়ার অভিযোগ।
+Complain Offers / Campaign,Complaint related to an ongoing offer or campaign.,চলমান কোনো অফার বা ক্যাম্পেইন সংক্রান্ত অভিযোগ।
+Complain Others Issue,Complaint that does not fit into any other specific complaint category.,অন্য কোনো নির্দিষ্ট ক্যাটাগরিতে না পড়া অভিযোগ।
+Complain Pathao Points and Benefits,Complaint about Pathao Points or related benefits.,পাঠাও পয়েন্টস বা সংশ্লিষ্ট সুবিধা নিয়ে অভিযোগ।
+Complain Payment Not Received,Complaint that payment for a completed trip/order was not received.,সম্পন্ন হওয়া ট্রিপ/অর্ডারের টাকা না পাওয়ার অভিযোগ।
+Complain Payment Not Received User Charged,Complaint that the rider/captain did not receive payment even though the user was charged.,ইউজারের কাছ থেকে টাকা কাটার পরও রাইডার/ক্যাপ্টেন পেমেন্ট না পাওয়ার অভিযোগ।
+Complain Payment Not Received User Not Charged,Complaint that payment was not received and the user was also not charged.,ইউজারের কাছ থেকে টাকা না কাটা এবং পেমেন্টও না পাওয়ার অভিযোগ।
+Complain Physical Assault,Complaint about a physical assault incident during the trip/order.,ট্রিপ/অর্ডারের সময় শারীরিক নির্যাতন/হামলার ঘটনা নিয়ে অভিযোগ।
+Complain Poor Helmet Condition,Complaint about the poor/unsafe condition of the helmet provided.,প্রদত্ত হেলমেটের খারাপ/অনিরাপদ অবস্থা নিয়ে অভিযোগ।
+Complain Poor Vehicle Condition,Complaint about the poor condition of the vehicle used for the trip.,ট্রিপে ব্যবহৃত গাড়ির খারাপ অবস্থা নিয়ে অভিযোগ।
+Complain Pop-Up Error Message,Complaint about a pop-up error message shown in the app.,অ্যাপে পপ-আপ এরর মেসেজ দেখানোর অভিযোগ।
+Complain Preferred Destination,Complaint related to the Preferred Destination feature.,পছন্দের গন্তব্য (প্রেফার্ড ডেস্টিনেশন) ফিচার সংক্রান্ত অভিযোগ।
+Complain Quest Mismatch,Complaint that Quest progress or reward does not match what was expected.,কোয়েস্ট অগ্রগতি বা পুরস্কার প্রত্যাশার সাথে না মেলার অভিযোগ।
+Complain Quest Payment Not Received,Complaint that the Quest reward payment was not received.,কোয়েস্ট পুরস্কারের টাকা না পাওয়ার অভিযোগ।
+Complain Reckless Driving,Complaint about the rider/captain driving recklessly or unsafely.,রাইডার/ক্যাপ্টেনের বেপরোয়া/অনিরাপদ গাড়ি চালানো নিয়ে অভিযোগ।
+Complain Referral Bonus Issue,Complaint about a referral bonus not being received or being incorrect.,রেফারেল বোনাস না পাওয়া বা ভুল হওয়ার অভিযোগ।
+Complain Refused To Receive Payment via DP/BNPL,Complaint that the rider/captain refused to accept payment via DP or BNPL.,রাইডার/ক্যাপ্টেন DP বা BNPL-এর মাধ্যমে পেমেন্ট নিতে অস্বীকার করার অভিযোগ।
+Complain Special Instruction Not Followed,Complaint that special instructions given for the order were not followed.,অর্ডারে দেওয়া বিশেষ নির্দেশনা মানা না হওয়ার অভিযোগ।
+Complain Started And Ended Without Customer,Complaint that the trip was started and ended without the customer actually being on board.,গ্রাহক প্রকৃতপক্ষে রাইডে উপস্থিত না থাকা সত্ত্বেও ট্রিপ শুরু ও শেষ দেখানোর অভিযোগ।
+Complain Started Before Picking,Complaint that the trip was marked as started before the actual pickup happened.,প্রকৃত পিকআপের আগেই ট্রিপ শুরু দেখানোর অভিযোগ।
+Complain Unpleasant Activity,Complaint about an unpleasant or inappropriate incident during the trip or order.,ট্রিপ বা অর্ডারের সময় অপ্রীতিকর/অনুপযুক্ত ঘটনা নিয়ে অভিযোগ।
+Complain unusual fare increased,Complaint that the fare increased unusually or unexpectedly.,ভাড়া অস্বাভাবিকভাবে/অপ্রত্যাশিতভাবে বেড়ে যাওয়ার অভিযোগ।
+Complain User paid less,Rider/Captain complains that the user paid less than the actual fare.,প্রকৃত ভাড়ার চেয়ে কম টাকা দেওয়া হয়েছে বলে রাইডার/ক্যাপ্টেনের অভিযোগ।
+Complain Vehicle Damage,Complaint about damage caused to the vehicle during the trip.,ট্রিপের সময় গাড়ির ক্ষতি হওয়ার অভিযোগ।
+Complain Wrong Location Selected,Complaint that a wrong pickup/drop location was selected.,ভুল পিকআপ/ড্রপ লোকেশন নির্বাচিত হওয়ার অভিযোগ।
+Inquiry About Cancellation fee,Customer/rider asks how the cancellation fee works or why it was charged.,ক্যান্সেলেশন ফি কীভাবে কাজ করে বা কেন কাটা হলো তা নিয়ে জিজ্ঞাসা।
+Inquiry about completed trip/order,Customer asks for information or details about a completed trip or order.,সম্পন্ন হওয়া ট্রিপ বা অর্ডার সম্পর্কে তথ্য জানতে চাওয়া।
+Inquiry about Corporate Deals / Business Proposals,Inquiry about corporate partnerships or business proposals with Pathao.,পাঠাওয়ের সাথে কর্পোরেট চুক্তি বা ব্যবসায়িক প্রস্তাব সম্পর্কিত জিজ্ঞাসা।
+Inquiry about existing complain or request,Customer asks for an update/status on a previously submitted complaint or request.,আগে জমা দেওয়া অভিযোগ বা রিকোয়েস্টের সর্বশেষ অবস্থা জানতে চাওয়া।
+Inquiry About Pathao Careers,Inquiry about job opportunities or careers at Pathao.,পাঠাওয়ে চাকরি/ক্যারিয়ারের সুযোগ সম্পর্কে জিজ্ঞাসা।
+Inquiry about Profile Rating,Inquiry about how the profile rating works or the current rating.,প্রোফাইল রেটিং কীভাবে কাজ করে বা বর্তমান রেটিং সম্পর্কে জিজ্ঞাসা।
+Inquiry about Suspension Information,Inquiry about the details of an account suspension.,অ্যাকাউন্ট সাসপেনশনের বিস্তারিত তথ্য জানতে চাওয়া।
+Inquiry About Waiting Charge,Inquiry about how the waiting charge is calculated.,ওয়েটিং চার্জ কীভাবে হিসাব করা হয় তা জানতে চাওয়া।
+Inquiry Accident Major,Inquiry regarding a major accident incident.,বড় ধরনের দুর্ঘটনা সংক্রান্ত জিজ্ঞাসা।
+Inquiry Accident Minor,Inquiry regarding a minor accident incident.,ছোটখাটো দুর্ঘটনা সংক্রান্ত জিজ্ঞাসা।
+Inquiry Admiral Service,Inquiry about the Admiral service.,অ্যাডমিরাল সার্ভিস সম্পর্কে জিজ্ঞাসা।
+Inquiry BNPL Account Status,Inquiry about the current status of a BNPL account.,BNPL অ্যাকাউন্টের বর্তমান অবস্থা জানতে চাওয়া।
+Inquiry BNPL Auto Renew Activation,Inquiry about activating BNPL auto-renewal.,BNPL অটো-রিনিউ চালু করা সম্পর্কে জিজ্ঞাসা।
+Inquiry BNPL Auto Renew Deactivation,Inquiry about deactivating BNPL auto-renewal.,BNPL অটো-রিনিউ বন্ধ করা সম্পর্কে জিজ্ঞাসা।
+Inquiry BNPL Due Adjustment,Inquiry about how BNPL due adjustment works.,BNPL ডিউ অ্যাডজাস্টমেন্ট কীভাবে কাজ করে তা জানতে চাওয়া।
+Inquiry BNPL Due Explanation,Inquiry asking for an explanation of the BNPL due amount.,BNPL বকেয়া (ডিউ) পরিমাণের ব্যাখ্যা জানতে চাওয়া।
+Inquiry BNPL Process / BNPL Service,General inquiry about how the BNPL process/service works.,BNPL প্রক্রিয়া/সার্ভিস কীভাবে কাজ করে তা নিয়ে সাধারণ জিজ্ঞাসা।
+Inquiry BNPL Subscription Activation,Inquiry about activating a BNPL subscription.,BNPL সাবস্ক্রিপশন চালু করা সম্পর্কে জিজ্ঞাসা।
+Inquiry BNPL Subscription Deactivation,Inquiry about deactivating a BNPL subscription.,BNPL সাবস্ক্রিপশন বন্ধ করা সম্পর্কে জিজ্ঞাসা।
+Inquiry BNPL Subscription Fee,Inquiry about the BNPL subscription fee amount or details.,BNPL সাবস্ক্রিপশন ফি-এর পরিমাণ বা বিস্তারিত জানতে চাওয়া।
+Inquiry Commission Rate,Inquiry about the commission rate charged.,কমিশনের হার সম্পর্কে জিজ্ঞাসা।
+Inquiry Completion Rate,Inquiry about how the trip/order completion rate is calculated.,ট্রিপ/অর্ডার কমপ্লিশন রেট কীভাবে হিসাব করা হয় তা জানতে চাওয়া।
+Inquiry Delivery Charge,Inquiry about the delivery charge amount or calculation.,ডেলিভারি চার্জের পরিমাণ বা হিসাব সম্পর্কে জিজ্ঞাসা।
+Inquiry DP Due Adjustment,Inquiry about how DP due adjustment works.,DP ডিউ অ্যাডজাস্টমেন্ট কীভাবে কাজ করে তা জানতে চাওয়া।
+Inquiry DP Process / DP Service,General inquiry about how the DP process/service works.,DP প্রক্রিয়া/সার্ভিস কীভাবে কাজ করে তা নিয়ে সাধারণ জিজ্ঞাসা।
+Inquiry DP Topup,Inquiry about how to top up DP balance.,DP ব্যালেন্স কীভাবে টপ-আপ করা যায় তা জানতে চাওয়া।
+Inquiry DP Withdraw,Inquiry about how to withdraw DP balance.,DP ব্যালেন্স কীভাবে উত্তোলন করা যায় তা জানতে চাওয়া।
+Inquiry Drive App,General inquiry about the Drive App and its features.,ড্রাইভ অ্যাপ এবং এর ফিচার সম্পর্কে সাধারণ জিজ্ঞাসা।
+Inquiry Drive App Cool down,Inquiry about the Drive App cool-down period/rule.,ড্রাইভ অ্যাপের কুল-ডাউন সময়/নিয়ম সম্পর্কে জিজ্ঞাসা।
+Inquiry Due Balance Explanation,Inquiry asking for an explanation of a due balance.,বকেয়া ব্যালেন্সের ব্যাখ্যা জানতে চাওয়া।
+Inquiry Edit Destination,Inquiry about how to edit the trip destination.,ট্রিপের গন্তব্য কীভাবে এডিট করা যায় তা জানতে চাওয়া।
+Inquiry Enlistment Certificate,Inquiry about obtaining an enlistment certificate.,এনলিস্টমেন্ট সার্টিফিকেট পাওয়ার বিষয়ে জিজ্ঞাসা।
+Inquiry Fare Bidding,Inquiry about how fare bidding works.,ফেয়ার বিডিং কীভাবে কাজ করে তা জানতে চাওয়া।
+Inquiry Fare Breakdown,Inquiry about the breakdown of a fare.,ভাড়ার বিস্তারিত হিসাব (ফেয়ার ব্রেকডাউন) সম্পর্কে জিজ্ঞাসা।
+Inquiry Flag Order / Flag Trip,Inquiry about why an order/trip was flagged.,অর্ডার/ট্রিপ কেন ফ্ল্যাগ করা হয়েছে তা জানতে চাওয়া।
+Inquiry Interested To Join Admiral,Inquiry from someone interested in joining as an Admiral.,অ্যাডমিরাল হিসেবে যুক্ত হতে আগ্রহী কারো জিজ্ঞাসা।
+Inquiry Interested To Join Captain,Inquiry from someone interested in joining as a Captain (car driver).,ক্যাপ্টেন (কার ড্রাইভার) হিসেবে যুক্ত হতে আগ্রহী কারো জিজ্ঞাসা।
+Inquiry Interested To Join Parcel,Inquiry from someone interested in joining the Parcel service.,পার্সেল সার্ভিসে যুক্ত হতে আগ্রহী কারো জিজ্ঞাসা।
+Inquiry Interested To Join Rider,Inquiry from someone interested in joining as a Rider (bike rider).,রাইডার (বাইক রাইডার) হিসেবে যুক্ত হতে আগ্রহী কারো জিজ্ঞাসা।
+Inquiry Joining Bonus,Inquiry about the joining bonus amount or eligibility.,জয়নিং বোনাসের পরিমাণ বা যোগ্যতা সম্পর্কে জিজ্ঞাসা।
+Inquiry Manual Due Adjustment,Inquiry about how a manual due adjustment is done.,ম্যানুয়াল ডিউ অ্যাডজাস্টমেন্ট কীভাবে করা হয় তা জানতে চাওয়া।
+Inquiry Multiple Stoppage,Inquiry about the multiple-stoppage feature.,একাধিক স্টপেজ (মাল্টিপল স্টপেজ) ফিচার সম্পর্কে জিজ্ঞাসা।
+Inquiry Offers / Campaign,Inquiry about ongoing offers or campaigns.,চলমান অফার বা ক্যাম্পেইন সম্পর্কে জিজ্ঞাসা।
+Inquiry Parcel Service,Inquiry about the Parcel service in general.,পার্সেল সার্ভিস সম্পর্কে সাধারণ জিজ্ঞাসা।
+Inquiry Pathao Office Address / Office Timing / Contacts Info,"Inquiry about Pathao's office address, office hours, or contact information.","পাঠাওয়ের অফিসের ঠিকানা, অফিস সময় বা যোগাযোগের তথ্য জানতে চাওয়া।"
+Inquiry Pathao Points and Benefits,Inquiry about Pathao Points and related benefits.,পাঠাও পয়েন্টস এবং সংশ্লিষ্ট সুবিধা সম্পর্কে জিজ্ঞাসা।
+Inquiry Preferred Destination,Inquiry about the Preferred Destination feature.,পছন্দের গন্তব্য (প্রেফার্ড ডেস্টিনেশন) ফিচার সম্পর্কে জিজ্ঞাসা।
+Inquiry Promo Or Voucher Info,Inquiry about the details of a promo code or voucher.,প্রোমো কোড বা ভাউচারের বিস্তারিত তথ্য জানতে চাওয়া।
+Inquiry Quest Info,Inquiry about how the Quest feature/program works.,কোয়েস্ট ফিচার/প্রোগ্রাম কীভাবে কাজ করে তা জানতে চাওয়া।
+Inquiry Quest Payment,Inquiry about when or how the Quest reward payment is given.,কোয়েস্ট পুরস্কারের টাকা কখন/কীভাবে দেওয়া হয় তা জানতে চাওয়া।
+Inquiry Reason For Pathao Outbound Call,Inquiry about why Pathao made an outbound call to the customer/rider.,পাঠাও কেন আউটবাউন্ড কল করেছে তা জানতে চাওয়া।
+Inquiry Referral Bonus,Inquiry about the referral bonus amount or eligibility.,রেফারেল বোনাসের পরিমাণ বা যোগ্যতা সম্পর্কে জিজ্ঞাসা।
+Inquiry Rides Service,General inquiry about the Rides service.,রাইডস সার্ভিস সম্পর্কে সাধারণ জিজ্ঞাসা।
+Inquiry Safety Coverage,Inquiry about the safety coverage/insurance provided during trips.,ট্রিপ চলাকালীন সেফটি কভারেজ/ইনস্যুরেন্স সম্পর্কে জিজ্ঞাসা।
+Inquiry User App,General inquiry about the User App and its features.,ইউজার অ্যাপ এবং এর ফিচার সম্পর্কে সাধারণ জিজ্ঞাসা।
+Others Dead On Arrival Call,Call where there was no response or the line dropped as soon as it reached the agent (dead call).,এজেন্টের কাছে কল পৌঁছানোর সাথে সাথে কোনো সাড়া না পাওয়া বা কল কেটে যাওয়া (ডেড কল)।
+Others Feedback Or Suggestions,Customer/rider gives general feedback or suggestions about the service.,সার্ভিস নিয়ে সাধারণ মতামত বা পরামর্শ প্রদান।
+Others Issue Partially Identified,The customer's issue could only be partially identified or understood.,গ্রাহকের সমস্যা শুধুমাত্র আংশিকভাবে শনাক্ত/বোঝা গেছে।
+Others Message After Execution,A message received after the request/task has already been completed.,রিকোয়েস্ট/কাজ ইতিমধ্যে সম্পন্ন হওয়ার পরে পাওয়া মেসেজ।
+Others Non Registered Number,Call or message from a number that is not registered with Pathao.,পাঠাওয়ে নিবন্ধিত নয় এমন নম্বর থেকে আসা কল/মেসেজ।
+Others Non-Pathao Related Service,Inquiry or complaint unrelated to Pathao's services.,পাঠাওয়ের সার্ভিসের সাথে সম্পর্কহীন জিজ্ঞাসা/অভিযোগ।
+Others Participation/engagement,Contact related to participation or engagement activities such as surveys or contests.,"অংশগ্রহণ বা এনগেজমেন্ট কার্যক্রম (জরিপ, প্রতিযোগিতা ইত্যাদি) সম্পর্কিত যোগাযোগ।"
+Others Silent Call / Chat,A call or chat where the other party remains silent or unresponsive.,এমন কল বা চ্যাট যেখানে অপর পক্ষ চুপ থাকে বা কোনো সাড়া দেয় না।
+Others Transferred To Designated Channel,The query was transferred to its designated/appropriate channel or department.,প্রশ্নটি নির্ধারিত/উপযুক্ত চ্যানেল বা বিভাগে স্থানান্তর করা হয়েছে।
+Request Account Conversion,Request to convert an account from one type to another (e.g. rider to captain).,অ্যাকাউন্টের ধরন পরিবর্তনের (যেমন রাইডার থেকে ক্যাপ্টেন) অনুরোধ।
+Request Account Deletion,Request to delete the account.,অ্যাকাউন্ট মুছে ফেলার অনুরোধ।
+Request BNPL Auto Renew Activation,Request to activate BNPL auto-renewal.,BNPL অটো-রিনিউ চালু করার অনুরোধ।
+Request BNPL Auto Renew Deactivation,Request to deactivate BNPL auto-renewal.,BNPL অটো-রিনিউ বন্ধ করার অনুরোধ।
+Request BNPL Subscription Activation,Request to activate a BNPL subscription.,BNPL সাবস্ক্রিপশন চালু করার অনুরোধ।
+Request BNPL Subscription Deactivation,Request to deactivate a BNPL subscription.,BNPL সাবস্ক্রিপশন বন্ধ করার অনুরোধ।
+Request Cancellation - Oversized Product,Rider requests order cancellation because the product is oversized.,পণ্যটি অতিরিক্ত বড় হওয়ায় অর্ডার ক্যান্সেলের অনুরোধ।
+Request Cancellation – Parcel not ready yet,Cancellation requested because the parcel was not ready for pickup.,পার্সেল পিকআপের জন্য প্রস্তুত না থাকায় ক্যান্সেলেশনের অনুরোধ।
+Request Cancellation – Receiver not available,Cancellation requested because the receiver was not available.,রিসিভার উপস্থিত না থাকায় ক্যান্সেলেশনের অনুরোধ।
+Request Cancellation – Rider device issue,Cancellation requested due to a device issue on the rider's end.,রাইডারের ডিভাইসে সমস্যার কারণে ক্যান্সেলেশনের অনুরোধ।
+Request Cancellation – Rider will need more time to pick up,Cancellation requested because the rider needs more time to reach the pickup point.,পিকআপের জন্য রাইডারের আরও সময় প্রয়োজন হওয়ায় ক্যান্সেলেশনের অনুরোধ।
+Request Cancellation – User asked for door-to-door service,Cancellation requested because the user wanted door-to-door service instead.,ইউজার ডোর-টু-ডোর সার্ভিস চাওয়ায় ক্যান্সেলেশনের অনুরোধ।
+Request Cancellation – User mistakenly placed multiple orders,Cancellation requested because the user accidentally placed multiple orders.,ইউজার ভুলবশত একাধিক অর্ডার করায় ক্যান্সেলেশনের অনুরোধ।
+Request Cancellation – User refuse to disclose the reason,Cancellation requested by the user without disclosing the reason.,ইউজার কারণ প্রকাশ না করেই ক্যান্সেলেশনের অনুরোধ করেছেন।
+Request Cancellation – User requested additional service (purchase request),Cancellation requested because the user asked for an additional service such as a purchase request.,ইউজার অতিরিক্ত সার্ভিস (পারচেজ রিকোয়েস্ট) চাওয়ায় ক্যান্সেলেশনের অনুরোধ।
+Request Cancellation – User sent parcel through another Pathao rider,Cancellation requested because the user already sent the parcel through another Pathao rider.,ইউজার ইতিমধ্যে অন্য পাঠাও রাইডারের মাধ্যমে পার্সেল পাঠানোয় ক্যান্সেলেশনের অনুরোধ।
+Request Cancellation – User sent parcel through another platform,Cancellation requested because the user sent the parcel through another platform.,ইউজার অন্য প্ল্যাটফর্মের মাধ্যমে পার্সেল পাঠানোয় ক্যান্সেলেশনের অনুরোধ।
+Request Cancellation – User want COD,Cancellation requested because the user wants Cash on Delivery instead.,ইউজার ক্যাশ অন ডেলিভারি (COD) চাওয়ায় ক্যান্সেলেশনের অনুরোধ।
+Request Cancellation – User want multiple stopage,Cancellation requested because the user wants multiple stoppages that aren't available.,ইউজার একাধিক স্টপেজ চাওয়ায় ক্যান্সেলেশনের অনুরোধ।
+Request Cancellation – User wants a bike,Cancellation requested because the user wants a bike instead of the assigned vehicle.,ইউজার বাইক চাওয়ায় ক্যান্সেলেশনের অনুরোধ।
+Request Cancellation – User wants a bike (User Convinced),"Cancellation was initially requested for a bike, but the user was later convinced to continue with the original vehicle.",প্রথমে বাইক চাওয়ায় ক্যান্সেলেশনের অনুরোধ করলেও পরে ইউজারকে রাজি করানো হয়েছে।
+Request Cancellation – Weighty Product (10 to 20 kg),Cancellation requested because the product weighs between 10 and 20 kg.,পণ্যের ওজন ১০ থেকে ২০ কেজির মধ্যে হওয়ায় ক্যান্সেলেশনের অনুরোধ।
+Request Cancellation – Weighty Product (20 kg+),Cancellation requested because the product weighs more than 20 kg.,পণ্যের ওজন ২০ কেজির বেশি হওয়ায় ক্যান্সেলেশনের অনুরোধ।
+Request Cancellation – Weighty Product (5 to 10 kg),Cancellation requested because the product weighs between 5 and 10 kg.,পণ্যের ওজন ৫ থেকে ১০ কেজির মধ্যে হওয়ায় ক্যান্সেলেশনের অনুরোধ।
+Request Cancellation Entry Restricted Area,Cancellation requested because the destination is in a restricted-entry area.,গন্তব্য প্রবেশ-নিষিদ্ধ এলাকায় হওয়ায় ক্যান্সেলেশনের অনুরোধ।
+Request Cancellation Faced Accident,Cancellation requested because the rider/captain faced an accident.,রাইডার/ক্যাপ্টেন দুর্ঘটনার শিকার হওয়ায় ক্যান্সেলেশনের অনুরোধ।
+Request Cancellation Feeling Sick,Cancellation requested because the rider/captain/user is feeling sick.,রাইডার/ক্যাপ্টেন/ইউজার অসুস্থ বোধ করায় ক্যান্সেলেশনের অনুরোধ।
+Request Cancellation Foodman / Rider / Captain Unreachable,"Cancellation requested because the foodman, rider, or captain could not be reached.",ফুডম্যান/রাইডার/ক্যাপ্টেনকে যোগাযোগ করা যায়নি বলে ক্যান্সেলেশনের অনুরোধ।
+Request Cancellation Fragile/Perishable Item,Cancellation requested because the item is fragile or perishable.,পণ্যটি ভঙ্গুর বা পচনশীল হওয়ায় ক্যান্সেলেশনের অনুরোধ।
+Request Cancellation Huge Traffic,Cancellation requested due to heavy traffic.,প্রচণ্ড যানজটের কারণে ক্যান্সেলেশনের অনুরোধ।
+Request Cancellation Incomplete Service,Cancellation requested because the service could not be completed as intended.,সার্ভিসটি যথাযথভাবে সম্পন্ন করা সম্ভব না হওয়ায় ক্যান্সেলেশনের অনুরোধ।
+Request Cancellation long distance delivery,Cancellation requested because the delivery distance is too long.,ডেলিভারির দূরত্ব অনেক বেশি হওয়ায় ক্যান্সেলেশনের অনুরোধ।
+Request Cancellation long distance pickup,Cancellation requested because the pickup distance is too long.,পিকআপের দূরত্ব অনেক বেশি হওয়ায় ক্যান্সেলেশনের অনুরোধ।
+Request Cancellation Long Pickup Distance,Cancellation requested because the pickup point is too far.,পিকআপ পয়েন্ট অনেক দূরে হওয়ায় ক্যান্সেলেশনের অনুরোধ।
+Request Cancellation Price Is Higher Than Expectation,Cancellation requested because the fare is higher than the user expected.,ভাড়া প্রত্যাশার চেয়ে বেশি হওয়ায় ক্যান্সেলেশনের অনুরোধ।
+Request Cancellation Raining,Cancellation requested due to rain.,বৃষ্টির কারণে ক্যান্সেলেশনের অনুরোধ।
+Request Cancellation Rider/Captain/Foodman Changed Mind,"Cancellation requested because the rider, captain, or foodman changed their mind.",রাইডার/ক্যাপ্টেন/ফুডম্যান সিদ্ধান্ত পরিবর্তন করায় ক্যান্সেলেশনের অনুরোধ।
+Request Cancellation Road Blocked,Cancellation requested because the road is blocked.,রাস্তা বন্ধ থাকায় ক্যান্সেলেশনের অনুরোধ।
+Request Cancellation Road Crossing Problem,Cancellation requested due to difficulty crossing the road/route.,রাস্তা পারাপারে সমস্যা হওয়ায় ক্যান্সেলেশনের অনুরোধ।
+Request Cancellation User Asked To Cancel,The user themselves asked for the trip/order to be cancelled.,ইউজার নিজেই ট্রিপ/অর্ডার ক্যান্সেল করার অনুরোধ করেছেন।
+Request Cancellation User Changed Mind,Cancellation requested because the user changed their mind.,ইউজার সিদ্ধান্ত পরিবর্তন করায় ক্যান্সেলেশনের অনুরোধ।
+Request Cancellation User Mistakenly Ordered / Requested,Cancellation requested because the user placed the order/request by mistake.,ইউজার ভুলবশত অর্ডার/রিকোয়েস্ট করায় ক্যান্সেলেশনের অনুরোধ।
+Request Cancellation User Unreachable,Cancellation requested because the user could not be reached.,ইউজারকে যোগাযোগ করা যায়নি বলে ক্যান্সেলেশনের অনুরোধ।
+Request Cancellation Vehicle Problem,Cancellation requested due to a problem with the vehicle.,গাড়িতে সমস্যা হওয়ায় ক্যান্সেলেশনের অনুরোধ।
+Request Cancellation Wrong Location Selected,Cancellation requested because the wrong pickup/drop location was selected.,ভুল পিকআপ/ড্রপ লোকেশন নির্বাচিত হওয়ায় ক্যান্সেলেশনের অনুরোধ।
+Request cancellation- Rider / User behaviour issue,Cancellation requested due to a behaviour issue between the rider and user.,রাইডার/ইউজারের আচরণগত সমস্যার কারণে ক্যান্সেলেশনের অনুরোধ।
+Request cancellation- Rider / User product packaging issue,Cancellation requested due to a packaging issue with the product.,পণ্যের প্যাকেজিংয়ে সমস্যার কারণে ক্যান্সেলেশনের অনুরোধ।
+Request DP Change Secret PIN,Request to change the DP secret PIN.,DP-এর সিক্রেট পিন পরিবর্তনের অনুরোধ।
+Request DP Recover Secret PIN,Request to recover a forgotten DP secret PIN.,ভুলে যাওয়া DP সিক্রেট পিন পুনরুদ্ধারের অনুরোধ।
+Request Due Adjustment,Request to adjust a due amount.,বকেয়া (ডিউ) পরিমাণ সমন্বয়ের অনুরোধ।
+Request Fare Adjustment Bidding,Request to adjust a fare that resulted from bidding.,বিডিংয়ের মাধ্যমে নির্ধারিত ভাড়া সমন্বয়ের অনুরোধ।
+Request Fare Adjustment Edit Destination,Request to adjust the fare after the destination was edited.,গন্তব্য পরিবর্তনের পর ভাড়া সমন্বয়ের অনুরোধ।
+Request Fare Adjustment GPS Error,Request to adjust the fare due to a GPS error affecting the calculation.,জিপিএস এররের কারণে ভাড়া হিসাবে সমস্যা হওয়ায় সমন্বয়ের অনুরোধ।
+Request Fare Adjustment GPS Fault,Request to adjust the fare due to a GPS fault affecting the calculation.,জিপিএস ত্রুটির কারণে ভাড়া সমন্বয়ের অনুরোধ।
+Request Fare Adjustment Invalid Claim,A fare adjustment request that was found to be an invalid/unjustified claim.,ভাড়া সমন্বয়ের অনুরোধ যা অবৈধ/অযৌক্তিক দাবি হিসেবে চিহ্নিত হয়েছে।
+Request Fare Adjustment Multiple Stoppage,Request to adjust the fare due to multiple stoppages during the trip.,ট্রিপে একাধিক স্টপেজের কারণে ভাড়া সমন্বয়ের অনুরোধ।
+Request Fare Adjustment Other Claims,Request to adjust the fare for reasons not covered by the other specific fare-adjustment tags.,অন্যান্য নির্দিষ্ট কারণ ছাড়া ভাড়া সমন্বয়ের অনুরোধ।
+Request Fare Adjustment Start/End,Request to adjust the fare due to an issue with the trip's start/end point.,ট্রিপের শুরু/শেষ পয়েন্টে সমস্যার কারণে ভাড়া সমন্বয়ের অনুরোধ।
+Request MFS Number Update,Request to update the registered MFS (Mobile Financial Service) number.,নিবন্ধিত এমএফএস (মোবাইল ফাইন্যান্সিয়াল সার্ভিস) নম্বর আপডেট করার অনুরোধ।
+Request Password Reset,Request to reset the account password.,অ্যাকাউন্টের পাসওয়ার্ড রিসেট করার অনুরোধ।
+Request Profile Update,Request to update profile information.,প্রোফাইলের তথ্য আপডেট করার অনুরোধ।
+Request Registered Number/Email Update,Request to update the registered phone number or email address.,নিবন্ধিত ফোন নম্বর বা ইমেইল ঠিকানা আপডেট করার অনুরোধ।
+Request Rental Trip Booking,Request to book a rental trip.,রেন্টাল ট্রিপ বুক করার অনুরোধ।
+"Request Rental Trip Update (Time, Location, Vehicle)","Request to update the time, location, or vehicle of an existing rental trip booking.","বিদ্যমান রেন্টাল ট্রিপ বুকিংয়ের তথ্য (সময়, স্থান, গাড়ি) আপডেট করার অনুরোধ।"
+Request Special Instructions,Request to add special instructions to an order/trip.,অর্ডার/ট্রিপে বিশেষ নির্দেশনা যুক্ত করার অনুরোধ।
+Request Suspension Withdraw,Request to lift/withdraw an account suspension.,অ্যাকাউন্ট সাসপেনশন প্রত্যাহারের অনুরোধ।
+Request To Complete The Order/Trip Instead Of Cancel,Request to mark the order/trip as complete instead of cancelling it.,ক্যান্সেল না করে অর্ডার/ট্রিপ সম্পন্ন হিসেবে দেখানোর অনুরোধ।
+Request to Join Social Community,Request to join Pathao's social/community group.,পাঠাওয়ের সোশ্যাল/কমিউনিটি গ্রুপে যুক্ত হওয়ার অনুরোধ।
+Request To Process Minus Due Amount,Request to process/settle a negative (minus) due amount.,ঋণাত্মক (মাইনাস) বকেয়া পরিমাণ প্রসেস/সমন্বয়ের অনুরোধ।
+Request To Turn On Toggles,Request to turn on specific service toggles (e.g. service availability settings).,নির্দিষ্ট সার্ভিস টগল চালু করার অনুরোধ।
+Request Vehicle Update,Request to update the registered vehicle information.,নিবন্ধিত গাড়ির তথ্য আপডেট করার অনুরোধ।
+User Parcel Cancellation Request-User did not disclose the reason and CMT found unreachable,"User requested to cancel a parcel order without disclosing the reason, and the CMT (Central Management Team) was unable to reach the user afterward.","ইউজার কারণ না জানিয়ে পার্সেল অর্ডার ক্যান্সেলের অনুরোধ করেছেন, এবং পরে CMT (সেন্ট্রাল ম্যানেজমেন্ট টিম) তাকে যোগাযোগ করতে পারেনি।"
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
